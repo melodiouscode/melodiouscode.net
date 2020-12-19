@@ -30,11 +30,11 @@ navigation:
 - text: Home
   url: /
 - text: Reading List
-  url: /reading-list/
+  url: /reading-list
 - text: Wathing List
-  url: /developer-professional-development/
+  url: /developer-professional-development
 - text: About
-  url: /about-and-disclaimer/
+  url: /about-and-disclaimer
 - text: The Author
   url: /the-author
 - text: Badges
