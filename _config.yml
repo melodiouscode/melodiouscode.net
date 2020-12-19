@@ -15,7 +15,7 @@ tagline: "The problem with making computers that complete idiots can use; is you
 description: "The personal blog of a software developer from Bristol, UK. The problem with making computers that complete idiots can use; is you end up with complete idiots using computers."
 
 # The subpath of your site, e.g. /blog, for generating urls
-baseurl:
+baseurl: ""
 
 # Sass
 sass:
@@ -45,7 +45,7 @@ navigation:
   url: https://www.flickr.com/photos/melodiouscode/
 
 # The shortname for your Disqus site to enable comments.
-disqus: "melodiouscode"
+disqus: "melodiouscode-net"
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 google_analytics: ""
@@ -67,7 +67,7 @@ author_image: /images/authorimage.png
 
 # Social links in the site footer
 twitter_url: "https://twitter.com/melodiouscode"
-github_url: "https://github.com/"
+github_url: "https://github.com/melodiouscode"
 
 # http://jekyllrb.com/docs/pagination/
 paginate: 4
