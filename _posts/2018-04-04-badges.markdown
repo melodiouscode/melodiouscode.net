@@ -1,0 +1,50 @@
+---
+layout: post
+title: Badges and Tests
+date: '2018-04-04 10:29:36'
+image: /images/pages/neonbrand-570369-unsplash-min.jpg
+tags:
+- security
+---
+
+Everyone loves a badge or a sticker don't they. There are so many websites which display a Trusted/Verified logo like these:
+![Some badges that claim a website is secure](/images/content/badges-min.png)
+Those in the know are more than aware that these are easy to fake; and as such mean very little.
+
+That being said everyone loves a badge! So here are a few that actually do matter and relate to melodiouscode.net. You can verify them all using the links provided!
+
+## SSL Labs
+[Verify Here](https://ssllabs.com/ssltest/analyze.html?d=melodiouscode.co.uk&latest)
+SSL Labs verifies the level of transit security used by a website; the types of encryption available, the use of HSTS, etc.
+![A screenshot of the results when scanning this website with the SSL Labs Tool](/images/content/ssllabs.com-min.png)
+
+## Securityheaders.io
+[Verify Here](https://schd.io/5sZu)
+[securityheaders.io](https://securityheaders.io) is a service run by [Scott Helme](https://scotthelme.co.uk/) which checks other important security features such as CSP, XSS protection, etc.
+![A screenshot of the results when scanning this site with the SecurityHeaders.io website](/images/content/securityheaders.io-min.PNG)
+
+## Mozilla Observatory
+[Verify Here](https://observatory.mozilla.org/analyze/melodiouscode.net)
+The Mozilla Observatory works in much the same was as [securityheaders.io](https://securityheaders.io) but goes into a bit more depth in some places.
+![A screenshot of the results from scanning this site with the Mozilla Observatory](/images/content/observatory.mozilla.org-min.png)
+
+## HSTS Preload
+[Verify Here](https://hstspreload.org/?domain=melodiouscode.net)
+You can read about HSTS and the PreLoad directive in my '[HTTPS is just the tip of the sword](https://melodiouscode.net/https-is-just-the-tip-of-the-sword/)' article.
+![HSTS Preload screenshot showing this website is pre-loaded](/images/content/hstspreload-min.PNG)
+
+## Cloudflare
+This website is served via the Cloudflare system; caching the site at an edge node near you. Along with caching Cloudflare also provides HTTPS, improved load times, and enhanced security.
+![Cloudflare logo badge](/images/content/cf-web-badges-a-gray-on.png)
+
+## The old ones are always the best
+Valid CSS!
+<p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+
+#### Thank you to [@neonbrand](https://unsplash.com/@neonbrand) for providing the header image for this page for free on [unsplash.com](https://unsplash.com).

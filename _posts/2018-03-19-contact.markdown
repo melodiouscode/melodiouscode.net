@@ -1,0 +1,26 @@
+---
+layout: post
+image: /images/pages/antoine-barres-198891-unsplash-1.jpg
+title: Contact
+date: '2018-03-19 20:26:05'
+---
+
+There are a number of ways that you can contact me; if you feel the need!
+## Email
+You can mail me via james@melodiouscode.net; I don't promise to reply to every email (life can be busy) but I will do my best. See the end of this page for a list of things **I will** and **will not** reply to.
+
+## Twitter
+I have been active on twitter using [@melodiouscode](https://twitter.com/melodiouscode) for a number of years.
+
+## Facebook
+No, just no.
+
+## What I will definatly reply to
+Cool things, potential meetups, and comments about articles that just dont fit into the comment section.
+
+## What I will definatly not reply to
+* No I don't want your web design firm to re-design melodiouscode.net.
+* No I won't just link to your article; if it's really cool then I might but not just becase you asked.
+* If your email doesn't really make sense, or doesn't require a response (ask questions they get answers).
+
+#### The header image for this post came from [Antoine Barrès](https://unsplash.com/@antoinebarres) via [unsplash.com](https://unsplash.com).
