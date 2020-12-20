@@ -44,6 +44,8 @@ navigation:
 - text: Photos
   url: https://www.flickr.com/photos/melodiouscode/
 
+nonce: "NHSqRczPed"
+
 # The shortname for your Disqus site to enable comments.
 disqus: "melodiouscode-net"
 
