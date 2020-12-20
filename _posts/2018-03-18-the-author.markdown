@@ -21,4 +21,4 @@ Like all good developers you can find me over on StackOverflow (and it’s siste
 </a>
 
 ## Certificates, Courses, and the such
-A fill list of the online courses, certifications, and conferences I have taken part in can be found [here](https://melodiouscode.net/certificates-courses-and-conferences).
+A fill list of the online courses, certifications, and conferences I have taken part in can be found [here](https://www.melodiouscode.net/certificates-courses-and-conferences).

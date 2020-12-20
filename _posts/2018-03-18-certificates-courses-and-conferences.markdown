@@ -22,6 +22,19 @@ The following is a list of the Certificates, courses, and conferences that I hav
 
 ## Courses
 
+**Nov 2020**
+* [Blazor: The Big Picture](https://app.pluralsight.com/library/courses/blazor-big-picture) - <small>[<i class="fa fa-certificate"> Certificate</i>](https://content.melodiouscode.net/certs/blazor-big-picture.pdf)</small>
+
+**Oct 2020**
+* [Getting Started with ASP.NET SignalR](https://app.pluralsight.com/library/courses/aspdotnet-signalr-getting-started) - <small>[<i class="fa fa-certificate"> Certificate</i>](https://content.melodiouscode.net/certs/aspdotnet-signalr-getting-started.pdf)</small>
+
+**May 2020**
+* [Microsoft Azure Developer: Implementing Table Storage](https://app.pluralsight.com/library/courses/microsoft-azure-table-storage-implementing) - <small>[<i class="fa fa-certificate"> Certificate</i>](https://content.melodiouscode.net/certs/microsoft-azure-table-storage-implementing.pdf)</small>
+* [Microsoft Azure Developer: Implementing Azure Cache](https://app.pluralsight.com/library/courses/microsoft-azure-cache-implementing) - <small>[<i class="fa fa-certificate"> Certificate</i>](https://content.melodiouscode.net/certs/microsoft-azure-cache-implementing.pdf)</small>
+* [Python: The Big Picture](https://app.pluralsight.com/library/courses/python-big-picture) - <small>[<i class="fa fa-certificate"> Certificate</i>](https://content.melodiouscode.net/certs/python-big-picture.pdf)</small>
+
+
+
 **April 2020**
 * [Microsoft Azure Developer: Implementing File Storage](https://app.pluralsight.com/library/courses/microsoft-azure-file-storage-implementing/table-of-contents) - <small>[<i class="fa fa-certificate"> Certificate</i>](https://content.melodiouscode.net/certs/microsoft-azure-file-storage-implementing.pdf)</small>
 * [Microsoft Azure Developer: Configuring CORS Access for Storage](https://app.pluralsight.com/library/courses/microsoft-azure-storage-cors-access-configuring/table-of-contents) - <small>[<i class="fa fa-certificate"> Certificate</i>](https://content.melodiouscode.net/certs/microsoft-azure-storage-cors-access-configuring.pdf)</small>
