@@ -48,7 +48,7 @@ navigation:
 disqus: "melodiouscode-net"
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
-google_analytics: "ca-pub-1763924190562272"
+google_analytics: ""
 
 # Author information - author info at the bottom of the post
 author_name: "melodiouscode"
