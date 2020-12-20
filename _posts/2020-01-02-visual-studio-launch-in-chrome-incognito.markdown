@@ -17,7 +17,7 @@ Visual Studio supports the addition of other browsers; and using this feature yo
 ### How to add Chrome Incognito Mode to Visual Studio's Debug Button
 
 1. Open the 'browse with' window from your menu bar (whilst a web application project is open). Strangely this requires your application to build before it will open!
-<figure class="kg-card kg-image-card"><img src="/images/content/more-emulators-1.PNG" class="kg-image" alt="The 'browse with' menu option"></figure>
+<figure class="kg-card kg-image-card"><img src="/images/content/more-emulators-1.png" class="kg-image" alt="The 'browse with' menu option"></figure>
 
 2. Click Add and enter the following values:
 

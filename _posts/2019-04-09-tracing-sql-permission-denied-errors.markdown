@@ -14,7 +14,7 @@ It is an error that every developer is more than used to seeing; the application
 SQL Server Profiler is a tool often installed along with SQL Server Management Studio (SSMS), or you can find it on the SQL Server itself. It allows you to 'watch' the queries that are occurring on your SQL Server; by default, it shows all traffic (queries, connections, errors, etc) and can be very noisy. You can, however, place filters on its datasets to only obtain information important to you; such as error 229 "Permission Denied".
 
 1. Start SQL Profiler and connect to your SQL Database server, this will not actually start a trace so don't be worried about affecting performance yet!
-<figure class="kg-card kg-image-card"><img src="/images/content/profiler1-min-7.png" class="kg-image"></figure>
+<figure class="kg-card kg-image-card"><img src="/images/content/profiler1-min-7-.png" class="kg-image"></figure>
 
 2. When the 'trace properties' window opens, switch to the 'Events Selection' tab and tick the "show all events" and "show all columns" boxes. This will allow us to filter our results to the error we care about in the next step.
 
