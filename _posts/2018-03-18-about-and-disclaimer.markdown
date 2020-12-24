@@ -11,15 +11,15 @@ Melodious Code is the personal blog of a software developer from the United King
 You can locate me on [keybase](https://keybase.io/melodiouscode) and view my verified identities: https://keybase.io/melodiouscode.
 
 ## Cookies
-You can read about cookies and my use of them over on our [cookie page](https://melodiouscode.net/why-cookies/).
+You can read about cookies and my use of them over on our [cookie page](https://melodiouscode.net/why-cookies).
 
 ## Analytics
-I use Google Analytics to see if anyone actually visits this website; I have set their data retention settings to the lowest levels possible (so they delete analytic data as quickly as possible). All demographic info settings have been disabled; so that as little information as possible is collected.
+I use Cloudflare Analytics to see if anyone actually visits this website; their data retention policy is at the lowest level possible (so they delete analytic data as quickly as possible). All demographic info settings have been disabled; so that as little information as possible is collected.
 
 ## Statement Of Neutrality, Alignment And Interests
-I work as a software developer (.NET, SQL, etc) for a UK based IT Services company; this website is separated from my professional activities. Should any article relate to the business of a firm I am directly attached to it is not to be taken as their word or opinion; everything I write is my opinion and mine only (unless otherwise marked on the article). Should I write an article on behalf of another firm it will be listed here for the purposes of disclosure:
-###Sponsored or requested articles
-None at this time
+I work as the manager of a software development team (.NET, SQL, etc) for a UK based Business Services Company; this website is separated from my professional activities. Should any article relate to the business of a firm I am directly attached to it is not to be taken as their word or opinion; everything I write is my opinion and mine only (unless otherwise marked on the article). Should I write an article on behalf of another firm it will be listed here for the purposes of disclosure:
+### Sponsored or requested articles
+* None at this time
 
 ### Commercial Interests
 I do not directly hold commercial interest in any technology firm (other than by my employment as a software developer, but I do not write directly about my firm unless obviously indicated). I do not directly hold any stocks or shares in a technology firm (I may via my pension fund, but that is not under my control). In the event that I am provided with a product or service to write about this will be clearly indicated in the article.
