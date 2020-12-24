@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why cookies?
-image: /images/posts/erol-ahmed-260730-unsplash_resized.jpg
+image: /images/pages/erol-ahmed-260730-unsplash_resized.jpg
 date: '2018-03-18 20:28:55'
 ---
 
@@ -23,11 +23,13 @@ I like my privacy as much as the next person; but I would not recommend disablin
 
 There are tracking cookies out there; many web browsers have the ability to prevent known agressive tracking cookies from being stored on your website. Equally you could use an ad-blocker; they block many types of cookie that are not required by the website.
 
-#What cookies does melodiouscode.net use?
-At the time of writing (18th March 2018) melodiouscode.net does not store any cookies on your system. I do however present the cookie banner just in case Ghost decides to start using cookies without me realising! 
+# What cookies does melodiouscode.net use?
+At the time of writing (24th December 2020) the site makes use of the Azure Static Sites hosting engine and Cloudflare; this causes some cookies to be provided with the pages; these cookies are not used to activly track users and are never passed outside of the sides hosting route.
+
+The comments engine uses disqus; this means that a number of their cookies are included on pages that contain the cookie area.
+
+Where possible all privicy settings have been set to the maximum value in Azure, Cloudflare, and Disqus; this helps to ensure that as little data is stored about my sites visitors as possible. I, James, the host of this website will NEVER sell data about my visitors to anyone.
 
 You can check what cookies this site presents without having to download them yourself over at [www.cookie-checker.com](http://www.cookie-checker.com/check-cookies.php?url=melodiouscode.net).
-
-Update: I do now use Google Analytics purely to see if and when people are reading the site; I do not harvest any data about my users and I have the data retention settings set to their shortest time.
 
 #### The header image for this post came from [Erol Ahmed](https://unsplash.com/@erol) via [unsplash.com](https://unsplash.com).
