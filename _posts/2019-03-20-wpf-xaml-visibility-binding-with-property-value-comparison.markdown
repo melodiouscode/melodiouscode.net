@@ -16,7 +16,7 @@ Following on from my previous articles about '[Passing multiple parameters to an
 The ability to show or hide UI elements based on criteria related to other elements is nothing new; only showing an 'Other Details' text box when a drop-down value of 'Other' is selected is the bread and butter of many end-user applications. There are a number of ways of doing this in the WPF/XAML/MVVM world, the default is often the use of a property on the ViewModel relating to the visibility (or enabled state) of the UI element in question, and this is how I have been implementing it until now!
 
 The most recent set of screens I have been working on are a lot more complicated than other parts of the application (lots of business logic fields which depend on the values of other fields). Adding lots and lots of 'IsEnabled' or 'IsVisible' properties (along with their backing fields, and INotifyProperyChanged code) seemed very messy to me, and I felt there must be a better solution. I already use an IValueConverter to convert simple boolean values (FirstNameIsVisible for example) into WPF Visibility values, so I thought I could take that one step further and perform comparisons.
-
+<!--more-->
 ## ComparisonToVisibleConverter
 
 A simple binding to a property on your ViewModel or in the case of this example to a property on a selected dropdown list entry grants you the source for the comparison.

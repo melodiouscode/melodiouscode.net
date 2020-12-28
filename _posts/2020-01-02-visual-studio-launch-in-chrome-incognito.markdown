@@ -13,7 +13,7 @@ tags:
 By default Visual Studio creates an entry for each recognised web browser you have installed when you first launch the IDE. We all know that we should be testing our web applications in more than just our favorite browser (after all, our end users may be using any number of browsers).
 
 Visual Studio supports the addition of other browsers; and using this feature you can add other browser modes such as incognito. Why I hear you ask; incognito mode is not just for naughty browsing habits. It also containerised your cookies, and history; so if you are debugging an application that uses an external authentication provider you won't inherit your existing sessions from other applications (my use case).
-
+<!--more-->
 ### How to add Chrome Incognito Mode to Visual Studio's Debug Button
 
 1. Open the 'browse with' window from your menu bar (whilst a web application project is open). Strangely this requires your application to build before it will open!

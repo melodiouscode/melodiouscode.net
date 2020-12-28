@@ -21,7 +21,7 @@ Ok, so I may have gone overboard on the [dot dev](https://get.dev) domains, obvi
 I could have just forwarded these domains to [melodiouscode.net](https://melodiouscode.net), but on my lunch break, I decided to chuck some single page sites at them for giggles. I, however, did not want to spend any more money than I already do on domain-related things. In steps [Cloudflare](https://cloudflare.com) [workers](https://www.cloudflare.com/en-gb/products/cloudflare-workers/).
 
 For those that do not know about workers; they are small chunks of javascript that you can run on the "edge" of Cloudflare. This means that you can execute code at the moment that a page is requested from your site. In the case of my serverless approach, the code executes before the page request has the chance to realise there is no web server!
-
+<!--more-->
 <figure class="kg-card kg-image-card"><img src="/images/content/worker.png" class="kg-image"></figure>
 
 The above code binds to the "page fetch" event before the page request is processed the worker code jumps in and grabs a static piece of HTML from my Azure Blob storage and returns that instead!  

@@ -12,7 +12,7 @@ tags:
 The WPF application I am working on at the moment contains a questionnaire definition system; the user interface for which contains a number of ComboBoxes (drop-down lists). The nature of the application means that some of these ComboBoxes contain a large number of dynamic entries (not hardcoded, they change based on user actions).
 
 I have found that WPF ComboBoxes with a large number of entries; particularly ones which have overridden ToString methods, can take a second or two to 'drop down' (display). This is because WPF renders the entire dropdown interface when it opens; this means if you have many entries in the list each one will be rendered regardless of its position in the list. If you have custom logic inside the ToString methods this can present a significant overhead on the UI thread.
-
+<!--more-->
 ### The Solution
 
 The quick solution is to use a VirtualizingStackPanel to display the ComboBox items; this has the effect of delaying the rendering of each item until it is needed (when it is scrolled into view). The following code is an example of a VirtualizingStackPanel in use.

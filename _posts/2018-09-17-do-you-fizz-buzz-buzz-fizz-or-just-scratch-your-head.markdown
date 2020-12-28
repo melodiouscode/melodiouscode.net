@@ -12,7 +12,7 @@ Over the years I have interviewed a lot of developer candidates and given advice
 Write a function which prints all the numbers from 1 to 100. But when printing a number which is a multiple of three print the word "Fizz" instead of the number, when the number is a multiple of five print the word "Buzz". If the number is a multiple of both three and five write the word "FizzBuzz" instead of the number.
 
 FizzBuzz is a simple program, or at least it should be. I think that some people who are new to the industry find it hard because it does not fit into the standard coding styles taught in school/university, it isn't just a simple for loop nor can you just implement an if then else. This is why it can be such a good tool to break the candidates apart from those who can code and those who can problem solve; that being said it only really works for the earlier stages of someone's development career (although if a senior developer couldn't solve this problem then they may need to seek alternative employment).
-
+<!--more-->
 # "So how do I FizzBuzz?"
 
 ## Break it down

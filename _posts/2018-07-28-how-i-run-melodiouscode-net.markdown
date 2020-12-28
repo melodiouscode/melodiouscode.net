@@ -12,7 +12,7 @@ Partly for myself and partly for any interested readers I wanted to note down ho
 Although this is a just a simple blog (for now anyway!) I have been using it to learn more about the systems that are out there to support and secure a larger website. Much of the work I have done is overkill for a small blog but I couldn't talk about security if I wasn't secure myself!
 
 There are a number of components to melodiouscode.net the larger of which are listed here.
-
+<!--more-->
 ## Componants
 
 - The Ghost Blog engine

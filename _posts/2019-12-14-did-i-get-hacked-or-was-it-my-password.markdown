@@ -20,7 +20,7 @@ There have been several news articles (and tweets!) recently on the subject of "
 As the tweet above might tell you, Ring has not been hacked (or at least they have not owned up to a hack). At the start of this article, I put the word news in quotes; and I did that on purpose. Most of the websites which have been posting articles about "the hack" can hardly be described as news outlets, they just use sensationalist headings as click-bait to drive advertising revenue. Unfortunately, because these websites get a lot of traffic they also get shared a lot on social media; many of their readers are not experts so take the statements as factual. The problem with inaccurate or fake news is well beyond the subject of this blog post so I shall leave it there, needless to say, it is not always the fault of the reader!
 
 For those who want to read the details; this [BBC article](https://www.bbc.co.uk/news/technology-50760103) is a little nearer to the truth, and is less sensationalist!
-
+<!--more-->
 ## What happened in the ring hacks?
 
 The big-ticket article (and each of its copies) in recent days has been the story of a young girl who was verbally abused via a ring camera in her bedroom. I won't go into the choice of a parent putting an internet-connected camera into a child's bedroom; that is a parenting decision and I am not a parent.

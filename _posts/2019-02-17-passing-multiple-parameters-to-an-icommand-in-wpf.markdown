@@ -14,7 +14,7 @@ One of the powerful parts of WPF is the ICommand system for binding buttons to V
 
 The application I am currently working on has lots of nested UI components, and some of the button events need to pass back multiple parameters (something I had not done before). It seems that it is perfectly possible to pass more than one parameter from the XAML View up to the ViewModel.  
 The XAML is simple, you nest a MultiValueConverter inside your buttons CommandParameter element; you also need to provide a reference to an IMultiValueConverter (which you can define statically in a resource elsewhere in your application).
-
+<!--more-->
 <!--kg-card-begin: markdown-->
 
     <Button Command="{Binding DeleteQuestionRuleCommand}" Content="Delete">

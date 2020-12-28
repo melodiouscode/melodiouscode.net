@@ -15,7 +15,7 @@ Although this article talks about FontAwesome the functionality used is nothing 
 <figure class="kg-card kg-image-card"><img src="/images/content/image.png" class="kg-image"></figure>
 
 The icon in the above screenshot is a standard FontAwesome icon with no special treatment; it is a little to close to the text for my liking, it cluttered (it can also confuse a screen reader). However, the icon in the next screenshot is ever so slightly further away, but the code is the same.
-
+<!--more-->
 <figure class="kg-card kg-image-card"><img src="/images/content/image-1.png" class="kg-image"></figure><!--kg-card-begin: markdown-->
 
     <h5 class="modal-title" id="errorModalLabel"><i class="far fa-exclamation-square"></i>Error message</h5>

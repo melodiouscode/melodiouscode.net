@@ -14,7 +14,7 @@ There have been a number of articles in the press in the last year about Interne
 For those reading who do not understand what this is: the two basic categories are Trusted and Untrusted devices; I trust my personal laptop and my server (I manage their security after all), the IOT thermostat and the bargain price CCTV system I bought years back, however, are a different story. So they need to be in seperate secured areas of my home network.
 
 Following some guides from [Troy Hunt](https://troyhunt.com) and other [Ubiquiti fans](https://community.ubnt.com/t5/custom/page/page-id/Forums), I have succeeded in splitting these two sets of network clients using my [Ubiquiti](https://www.ubnt.com/) [Unified Security Gateway (USG)](https://www.ubnt.com/unifi-routing/usg/). The following is a rough guide to separating your networks using Ubiquiti equipment with an optional step of creating a captive guest wifi portal for visitors. I am sure that other network equipment manufacturers provide the ability to layout a network in this way, but I do not have their hardware to test!
-
+<!--more-->
 ## 1. Create a VLAN for the untrusted network
 A VLAN separates the network into virtual segments which can be controlled by the firewall in the USG. Access the network settings via settings > networks, and create a new network. Choose a network name such as "Untrust VLAN" setup as a corporate network with a VLAN ID and IP Range of your choosing.
 ![ubnt-untrust](/images/content/ubnt-untrust.png)

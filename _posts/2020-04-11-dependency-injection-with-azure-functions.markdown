@@ -13,7 +13,7 @@ tags:
 ---
 
 I have been making good use of Azure Functions recently; their simple hosting style makes spinning up micro-services quick and easy whether they be HTTP, Blob, Table, or scheduled triggers. I have been making use of the schedule triggers recently to automate various processes for larger systems (they are substantially cheaper and easier to manage than Virtual Servers); to do so I have needed to make use of model/data layers within the rest of an application stack. Like most good code the other layers of these applications were designed to make use of IOC (Injection of Control) frameworks and DI (Dependency Injection; initially it seemed that IOC and DI were not possible with the Azure Functions platform. However, the addition of the support for Startup classes in Azure Functions v2 allows you to make use of the .NET Core Dependency Injection framework.
-
+<!--more-->
 ### Include a Startup Class in your Function
 
 Before you can make use of a Startup Class in your Azure Function you need to reference 'Microsoft.Azure.Functions.Extensions'; you can reference it via NuGet.  

@@ -15,7 +15,7 @@ I have been asked the question "Can you pass an enumerable to a procedure?" or "
 Although my example code here is in C# the same process applies to other .NET languages.  
 You can indeed pass an enumerable object to your Stored Procedure by using a special type of SQL object called a "User Defined Table Type". UDTTs can be used to create tempory tables in a SQL Query without the need to fully write out the TABLE statement; in much the same way they can be used to pass a tempory table to a stored procedure. The only restriction is that the parameter passed into the query must be marked as read-only.  
 An example SQL statement to create a User Defined Table Type is as follows:
-
+<!--more-->
 <figure class="kg-card kg-image-card"><img src="/images/content/udtt.png" class="kg-image"></figure>
 
 An example of using that type in a procedure is also as follows:

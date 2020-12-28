@@ -18,7 +18,7 @@ I needed to find an alternative; I contemplated a couple of things:
 + Running the query under a low (db_reader only) privilege account
 
 Whichever way I looked at it the options didn't seem great, and I thought there must be an alternative. It turns out there is!
-
+<!--more-->
 ## Obtaining the SQL Query Meta Data (Columns) of a recordset without executing it!
 From SQL Server 2012 a new Dynamic Management View (DMV) exists called sys.dm_exec_describe_first_result_set; this view allows you to obtain the metadata for the first possible result set in a T-SQL batch. Put simply it returns information about the columns returned from the first SELECT statement a query will hit (it is a little more complicated in that IF statements and the such can affect it, but basic queries work fine).
 The command takes an NVARCHAR parameter which will be analysed (but not executed); a table of results is then provided in the normal way.
