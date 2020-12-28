@@ -65,8 +65,9 @@ layout: default
         <div class="nav-previous">
             <div class="nav-inside inner-small outer">
                 {% if page.previous.image %}
-                <a href="{{ site.baseurl }}{{page.previous.url}}" nonce="{{site.nonce}}" class="nav-thumb"
-                    style="background-image: url({{page.previous.image}})"></a>
+                <a href="{{ site.baseurl }}{{page.previous.url}}" nonce="{{site.nonce}}" class="nav-thumb">
+                    <img src="{{page.previous.image}}" alt="Thumbnail of the header image for the previous page." />
+                </a>
                 {% endif %}
                 <div class="nav-before">Previous</div>
                 <h3 class="nav-title"><a href="{{ site.baseurl }}{{page.previous.url}}">{{page.previous.title}}</a>
@@ -79,8 +80,9 @@ layout: default
         <div class="nav-next">
             <div class="nav-inside inner-small outer">
                 {% if page.next.image %}
-                <a href="{{ site.baseurl }}{{page.next.url}}" class="nav-thumb"  nonce="{{site.nonce}}"
-                    style="background-image: url({{page.next.image}})"></a>
+                <a href="{{ site.baseurl }}{{page.next.url}}" class="nav-thumb"  nonce="{{site.nonce}}">
+                    <img src="{{page.next.image}}" alt="Thumbnail of the header image for the next page." />
+                </a>
                 {% endif %}
                 <div class="nav-before">Next</div>
                 <h3 class="nav-title"><a href="{{ site.baseurl }}{{page.next.url}}">{{page.next.title}}</a></h3>
