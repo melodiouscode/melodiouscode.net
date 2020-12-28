@@ -49,9 +49,6 @@ nonce: "NHSqRczPed"
 # The shortname for your Disqus site to enable comments.
 disqus: "melodiouscode-net"
 
-# Google Analytics id, e.g. "UA-NNNNNNNN-N"
-google_analytics: ""
-
 # Author information - author info at the bottom of the post
 author_name: "melodiouscode"
 author_bio: "<p>Hi I'm James, and Melodious Code is my blog. I am a software developer from the South-West of England; I mostly work in .NET (c#) creating desktop, web, service, and backend software for the business services industry.</p><p>Posts are likely to be related to software development or technology in general. Posts will be as regular or irregular as they are, no promises are made!.</p>"
