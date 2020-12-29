@@ -21,7 +21,7 @@ SSL Labs verifies the level of transit security used by a website; the types of 
 ## Securityheaders.io
 [Verify Here](https://schd.io/5sZu)
 [securityheaders.io](https://securityheaders.io) is a service run by [Scott Helme](https://scotthelme.co.uk/) which checks other important security features such as CSP, XSS protection, etc.
-![A screenshot of the results when scanning this site with the SecurityHeaders.io website](/images/pages/securityheaders.PNG)
+![A screenshot of the results when scanning this site with the SecurityHeaders.io website](/images/pages/securityheaders.png)
 
 ## Mozilla Observatory
 [Verify Here](https://observatory.mozilla.org/analyze/melodiouscode.net)
