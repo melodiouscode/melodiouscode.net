@@ -8,7 +8,7 @@ layout: default
                 {% if page.image %}
                 <div class="post-thumbnail">
                     <img src="{{ page.image | prepend: site.baseurl }}"
-                        alt="{% if page.image_alt %}{{ page.image_alt }}{% else %}{{ page.title }}{% endif %}">
+                        alt="{% if page.image_alt %}{{ page.image_alt }}{% else %}{{ page.title }}{% endif %}"/>
                 </div>
                 {% endif %}
                 <h1 class="post-title outer">{{page.title}}</h1>
