@@ -37,12 +37,28 @@ A static site sounds great; simple pages that serve static content to your users
 
 ## Setting up Jekyll
 The first step is to install the Jekyll toolchain and its dependencies on your local machine (or the environment you wish to use to create your site).
-1. Install the prerequisites for [Jekyll (Ruby)](https://jekyllrb.com/docs/installation/)
-2. Open a command prompt and install Jekyll - `gem install Jekyll bundler`
-3. Switch to a folder where you wish to store your sites configuration files
-4. Execute:  `Jekyll new myblog`
-5. Switch to the newly created folder
-6. Execute; `bundle exec jekyll serve`
+* Install the prerequisites for [Jekyll (Ruby)](https://jekyllrb.com/docs/installation/)
+* Open a command prompt and install Jekyll using the following command
+
+<!--kg-card-begin: markdown-->
+    gem install Jekyll bundler
+<!--kg-card-end: markdown-->
+
+* Switch to a folder where you wish to store your sites configuration files
+* Execute the following command to create a new Jekyll blog (change myblog to the name you wish the site to be)
+ 
+<!--kg-card-begin: markdown-->
+    Jekyll new myblog
+<!--kg-card-end: markdown-->
+
+* Switch to the newly created folder
+* Execute the following command to build and serve your new site
+   
+<!--kg-card-begin: markdown-->
+    bundle exec jekyll serve
+<!--kg-card-end: markdown-->
+
+* Browse to http://localhost:4000/ (note the http not https).
 
 <figure class="kg-card kg-image-card"><img src="/images/content/jekyllbuild.PNG" class="kg-image" alt="The console output from 'bundle exec jekyll serve"></figure>
 

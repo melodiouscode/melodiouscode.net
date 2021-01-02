@@ -31,7 +31,7 @@ navigation:
   url: /
 - text: Reading List
   url: /reading-list
-- text: Wathing List
+- text: Watching List
   url: /developer-professional-development
 - text: About
   url: /about-and-disclaimer
