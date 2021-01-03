@@ -58,7 +58,7 @@ The first step is to install the Jekyll toolchain and its dependencies on your l
    
 <!--kg-card-begin: markdown-->
     bundle exec jekyll serve
-    
+
 <!--kg-card-end: markdown-->
 
 * Browse to http://localhost:4000/ (note the http not https).
@@ -97,3 +97,7 @@ Once you have onboarded the domain to Cloudflare, you need to follow the instruc
 * You need to use www.yourdomain.whatever
 * You need to disable the proxy setting in Cloudflare DNS until you have performed the Verification Step in Azure.
 * I suggest setting up a Page Rule in Cloudflare to redirect the naked domain (yourdomain.whatever) to www.yourdomain.whatever, as at the time of writing Azure Static Sites requires a fully qualified domain.
+
+
+#### Update
+Thank you to my friend Tony Hillier-Swift of [https://www.hillier-swift.co.uk/](https://www.hillier-swift.co.uk/) for pointing out a few glitches in the instructions for the Jekyll Install! Tony is one of those systems people that all developers have a love-hate relationship with (and I should know, we took our first programming classes together); go check out his blog!
