@@ -42,6 +42,7 @@ The first step is to install the Jekyll toolchain and its dependencies on your l
 
 <!--kg-card-begin: markdown-->
     gem install Jekyll bundler
+
 <!--kg-card-end: markdown-->
 
 * Switch to a folder where you wish to store your sites configuration files
@@ -49,6 +50,7 @@ The first step is to install the Jekyll toolchain and its dependencies on your l
  
 <!--kg-card-begin: markdown-->
     Jekyll new myblog
+
 <!--kg-card-end: markdown-->
 
 * Switch to the newly created folder
@@ -56,6 +58,7 @@ The first step is to install the Jekyll toolchain and its dependencies on your l
    
 <!--kg-card-begin: markdown-->
     bundle exec jekyll serve
+    
 <!--kg-card-end: markdown-->
 
 * Browse to http://localhost:4000/ (note the http not https).
