@@ -14,7 +14,7 @@ As we wave goodbye to the pain that was 2020, some people are looking for a diff
 ## Beef up those Passwords.
 
 We are often told that we should use long and complex passwords; but remembering them is hard, especially for those who do not use them regularly. This then results in the less savvy user simply changing a part of their password (like a number) each time they get forced to create a new password; this way they can remember one long password with a slight change rather than a new long password every ninety days.
-
+<!--more-->
 The best password is a password that even you can't remember:
 
 1. `LocalSportsTeam123` is a poor password; Facebook or Twitter will likely tell me which Sports Team you follow.
