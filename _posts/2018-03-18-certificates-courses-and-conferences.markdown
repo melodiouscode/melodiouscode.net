@@ -15,8 +15,9 @@ The following is a list of the Certificates, courses, and conferences that I hav
 
 ## Certificates
 
+* Microsoft Certified: Azure Developer Associate (AZ-204) - <small>[<i class="fa fa-certificate"> Certificate January 2020</i>](https://www.youracclaim.com/badges/9111f450-68c6-425a-a540-d24bbf214a43/linked_in)</small>
+* Microsoft AZ-900: Azure Fundamentals (H388-5575) - <small>[<i class="fa fa-certificate"> Certificate March 2020</i>](https://www.youracclaim.com/badges/1886d2a8-b953-49dc-a46a-c3b5612dc73d)</small>
 * Fortinet: NSE 1 Network Security Associate - <small>[<i class="fa fa-certificate"> Certificate March 2020</i>](https://content.melodiouscode.net/certs/NSE_1_Certificate.pdf)</small>
-* Microsoft AZ-900: Azure Fundamentals (H388-5575) - <small>[<i class="fa fa-certificate"> Certificate March 2020</i>](https://content.melodiouscode.net/certs/Microsoft_Azure_AZ-900.pdf)</small>
 * Microsoft DEVOPS200.1x: DevOps Practices and Principles  - <small>[<i class="fa fa-certificate"> Certificate August 2018</i>](https://courses.edx.org/certificates/2d65313f100640eaae2e82fb047aa039)</small>
 * Google Digital Garage: Fundamentals of Digital Marketing  - <small>[<i class="fa fa-certificate"> Certificate January 2018</i>](https://content.melodiouscode.net/certs/fundamentalsofdigitalmarketing.pdf)</small>
 

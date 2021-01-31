@@ -11,10 +11,10 @@ Over the years we all collate a list of sites/blogs/etc that we keep an eye on (
 
 Out of my morning coffee link list I feel these are worth visiting, reading, and subscribing with, you may or may not agree (but isn’t that the joy of the internet?):
 
-* Troy Hunt – https://www.troyhunt.com/
-* Cloudflare Blog - https://blog.cloudflare.com
-* Brent Ozar – https://www.brentozar.com/blog/
-* Scott Hanselman – https://www.hanselman.com/blog/
+* Troy Hunt – [https://www.troyhunt.com/](https://www.troyhunt.com/)
+* Cloudflare Blog - [https://blog.cloudflare.com](https://blog.cloudflare.com)
+* Brent Ozar – [https://www.brentozar.com/blog/](https://www.brentozar.com/blog/)
+* Scott Hanselman – [https://www.hanselman.com/blog/](https://www.hanselman.com/blog/)
 
 You can also find me on the web at:
 * Twitter [@melodiouscode](https://twitter.com/melodiouscode)
