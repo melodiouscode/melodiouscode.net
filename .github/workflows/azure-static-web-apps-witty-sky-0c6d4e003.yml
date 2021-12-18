@@ -18,9 +18,9 @@ jobs:
       - uses: actions/checkout@v2
         with:
           submodules: true
-      - uses: actions/setup-ruby@v1
+      - uses: ruby/setup-ruby@v1.89.0
         with:
-          ruby-version: '2.6' # Version range or exact version of a Ruby version to use, using semvers version range syntax.
+          ruby-version: '3.0.3' # Version range or exact version of a Ruby version to use, using semvers version range syntax.
       - name: Install dependencies
         run: bundle install
       - name: Jekyll build
