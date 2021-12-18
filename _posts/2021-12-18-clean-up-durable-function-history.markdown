@@ -19,11 +19,14 @@ I intend to write several posts on Azure Functions in the coming months, but for
 
 ## Durable Function History
 If you already understand how durable functions maintain their state and history, scroll down to the next section; otherwise, keep reading to learn how durable state works.
+
 Every output of a durable activity (or the orchestrator itself) is stored as part of the orchestration history; one of the requirements of activity functions is that their return type can be serialised and deserialised, and stored in JSON format. This JSON data is then stored in Azure Storage (blobs, queues, and tables) to be retrieved when the function resumes (after waiting on an activity or external event).
+
 What isn't immediately apparent to developers is that this history is stored forever, an ever-growing pile of JSON in your storage accounts.
 <!--more-->
 ## Why is this bad?
 Ignoring the ever-increasing cost of the storage (blobs are cheap), if your function workflows process confidential data (and even if they don't), this forms a data security risk. Any good developer or cloud architect ensures that their database and application storage are secured (and implementing data minimisation), but it is easy to overlook the storage container that backs an Azure Function. It usually only contains basic log information that gets deleted automatically. 
+
 If you were processing incoming financial or medical records, perhaps performing a machine learning activity, these JSON files might contain highly confidential information that will just sit there (duplicated from where it is meant to be stored) forever. What happens when someone obtains the keys to that storage container; they could exfiltrate masses of information, including information you think you have deleted from the system (following GDPR requests, for example).
 
 ## How can I keep my functions clean?
