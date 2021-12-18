@@ -6,7 +6,7 @@ image: /images/posts/daniil-kuzelev-327645-unsplash-min.jpg
 tags:
 - wpf
 - dotnet
-- c
+- c-sharp
 - xaml
 - mvvm
 ---

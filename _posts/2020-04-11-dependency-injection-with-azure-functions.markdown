@@ -5,7 +5,7 @@ date: '2020-04-11 15:24:52'
 image: /images/posts/sara-bakhshi-MfnX4XtGnvU-unsplash-min.jpg
 tags:
 - azure
-- c
+- c-sharp
 - dotnet
 - developer
 - microsoft

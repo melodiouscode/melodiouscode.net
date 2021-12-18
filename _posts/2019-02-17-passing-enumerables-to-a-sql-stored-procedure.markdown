@@ -4,7 +4,7 @@ title: Passing Enumerables to a SQL Stored Procedure
 date: '2019-02-17 12:40:56'
 image: /images/posts/kelly-sikkema-411622-unsplash-min.jpg
 tags:
-- c
+- c-sharp
 - developer
 ---
 

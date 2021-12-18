@@ -5,8 +5,8 @@ date: '2018-04-14 07:03:36'
 image: /images/posts/mike-enerio-87677-unsplash-min.jpg
 tags:
 - development
-- net
-- c
+- dotnet
+- c-sharp
 ---
 
 As most .NET developers will know there is a Path.Combine() method in System.IO which can be used to (you guessed it) combine two file paths. Unfortunately, it sucks; it sucks bad.

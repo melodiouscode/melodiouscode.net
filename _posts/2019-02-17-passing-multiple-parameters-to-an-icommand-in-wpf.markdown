@@ -4,7 +4,7 @@ title: Passing multiple parameters to an ICommand in WPF
 date: '2019-02-17 13:22:10'
 image: /images/posts/hannah-joshua-644247-unsplash-min.jpg
 tags:
-- c
+- c-sharp
 - wpf
 - developer
 ---
