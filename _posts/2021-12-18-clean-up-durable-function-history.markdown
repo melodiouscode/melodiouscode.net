@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Clean up durable your functions history
+title: Clean up your durable functions history
 date: '2021-12-18 07:21:00'
 image: /images/posts/the-creative-exchange-cpIgNaazQ6w-unsplash_1000-min.jpg
 tags:
