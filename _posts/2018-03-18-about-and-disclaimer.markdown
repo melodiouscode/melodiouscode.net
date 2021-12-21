@@ -7,17 +7,14 @@ image: /images/pages/photo-1503437313881-503a91226402.jpg
 
 Melodious Code is the personal blog of a software developer from the United Kingdom (we don’t all live in silicone valley). Posts are likely to be related to software development or technology in general. Posts will be as regular or irregular as they are, no promises are made.
 
-## Verification
-You can locate me on [keybase](https://keybase.io/melodiouscode) and view my verified identities: https://keybase.io/melodiouscode.
-
 ## Cookies
-You can read about cookies and my use of them over on our [cookie page](https://melodiouscode.net/why-cookies).
+You can read about cookies and my use of them over on our [cookie page](https://melodiouscode.net/why-cookies). 
 
 ## Analytics
 I use Cloudflare Analytics to see if anyone actually visits this website; their data retention policy is at the lowest level possible (so they delete analytic data as quickly as possible). All demographic info settings have been disabled; so that as little information as possible is collected.
 
 ## Statement Of Neutrality, Alignment And Interests
-I work as the manager of a software development team (.NET, SQL, etc) for a UK based Business Services Company; this website is separated from my professional activities. Should any article relate to the business of a firm I am directly attached to it is not to be taken as their word or opinion; everything I write is my opinion and mine only (unless otherwise marked on the article). Should I write an article on behalf of another firm it will be listed here for the purposes of disclosure:
+I work as the senior manager of a software development team (.NET, SQL, etc) for a UK based Business Services Company; this website is separated from my professional activities. Should any article relate to the business of a firm I am directly attached to it is not to be taken as their word or opinion; everything I write is my opinion and mine only (unless otherwise marked on the article). Should I write an article on behalf of another firm it will be listed here for the purposes of disclosure:
 ### Sponsored or requested articles
 * None at this time
 
