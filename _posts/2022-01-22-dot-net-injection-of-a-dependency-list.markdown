@@ -8,7 +8,6 @@ tags:
 - dotnet
 - developer
 - dependency-injection
-- clean-code
 ---
 
 Whilst doom scrolling Twitter last night, I came across a tweet by a Norweigan software developer named <a href="https://twitter.com/KarlSolgard" target="_blank" title="Karlsolgrad on Twitter">KarlSolgard</a>; he tweeted about a feature of .NET Core Dependency Injection that I was unaware existed.
